@@ -1,0 +1,9 @@
+Test Harness Log :
+ Filename dll225633566.dll 
+ 
+12-06-2017 22:56:37:  
+  test DllLoaderDemo.Test1 succeeded to run
+12-06-2017 22:56:37:  
+  test DllLoaderDemo.Test2 succeeded to run
+12-06-2017 22:56:37:  
+  test DllLoaderDemo.Test3 failed to run

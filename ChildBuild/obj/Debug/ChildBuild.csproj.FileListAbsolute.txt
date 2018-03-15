@@ -1,0 +1,16 @@
+C:\Users\cheta\source\repos\Project4\ChildBuild\bin\Debug\ChildBuild.exe.config
+C:\Users\cheta\source\repos\Project4\ChildBuild\bin\Debug\ChildBuild.exe
+C:\Users\cheta\source\repos\Project4\ChildBuild\bin\Debug\ChildBuild.pdb
+C:\Users\cheta\source\repos\Project4\ChildBuild\bin\Debug\IMessagePassingCommService.dll
+C:\Users\cheta\source\repos\Project4\ChildBuild\bin\Debug\MessagePassingCommService.exe
+C:\Users\cheta\source\repos\Project4\ChildBuild\bin\Debug\TestUtilities.dll
+C:\Users\cheta\source\repos\Project4\ChildBuild\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\cheta\source\repos\Project4\ChildBuild\bin\Debug\IMessagePassingCommService.dll.config
+C:\Users\cheta\source\repos\Project4\ChildBuild\bin\Debug\MessagePassingCommService.pdb
+C:\Users\cheta\source\repos\Project4\ChildBuild\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\cheta\source\repos\Project4\ChildBuild\bin\Debug\TestUtilities.pdb
+C:\Users\cheta\source\repos\Project4\ChildBuild\bin\Debug\TestUtilities.dll.config
+C:\Users\cheta\source\repos\Project4\ChildBuild\obj\Debug\ChildBuild.csprojResolveAssemblyReference.cache
+C:\Users\cheta\source\repos\Project4\ChildBuild\obj\Debug\ChildBuild.csproj.CoreCompileInputs.cache
+C:\Users\cheta\source\repos\Project4\ChildBuild\obj\Debug\ChildBuild.exe
+C:\Users\cheta\source\repos\Project4\ChildBuild\obj\Debug\ChildBuild.pdb

@@ -1,0 +1,10 @@
+C:\Users\cheta\source\repos\Project4\TestUtilities\bin\Debug\TestUtilities.dll.config
+C:\Users\cheta\source\repos\Project4\TestUtilities\bin\Debug\TestUtilities.dll
+C:\Users\cheta\source\repos\Project4\TestUtilities\bin\Debug\TestUtilities.pdb
+C:\Users\cheta\source\repos\Project4\TestUtilities\bin\Debug\IMessagePassingCommService.dll
+C:\Users\cheta\source\repos\Project4\TestUtilities\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\cheta\source\repos\Project4\TestUtilities\bin\Debug\IMessagePassingCommService.dll.config
+C:\Users\cheta\source\repos\Project4\TestUtilities\obj\Debug\TestUtilities.csprojResolveAssemblyReference.cache
+C:\Users\cheta\source\repos\Project4\TestUtilities\obj\Debug\TestUtilities.csproj.CoreCompileInputs.cache
+C:\Users\cheta\source\repos\Project4\TestUtilities\obj\Debug\TestUtilities.dll
+C:\Users\cheta\source\repos\Project4\TestUtilities\obj\Debug\TestUtilities.pdb

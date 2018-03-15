@@ -1,0 +1,13 @@
+C:\Users\cheta\source\repos\Project4\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\cheta\source\repos\Project4\MessagePassingCommService\bin\Debug\MessagePassingCommService.exe
+C:\Users\cheta\source\repos\Project4\MessagePassingCommService\bin\Debug\MessagePassingCommService.pdb
+C:\Users\cheta\source\repos\Project4\MessagePassingCommService\bin\Debug\IMessagePassingCommService.dll
+C:\Users\cheta\source\repos\Project4\MessagePassingCommService\bin\Debug\TestUtilities.dll
+C:\Users\cheta\source\repos\Project4\MessagePassingCommService\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\cheta\source\repos\Project4\MessagePassingCommService\bin\Debug\IMessagePassingCommService.dll.config
+C:\Users\cheta\source\repos\Project4\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+C:\Users\cheta\source\repos\Project4\MessagePassingCommService\bin\Debug\TestUtilities.dll.config
+C:\Users\cheta\source\repos\Project4\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojResolveAssemblyReference.cache
+C:\Users\cheta\source\repos\Project4\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+C:\Users\cheta\source\repos\Project4\MessagePassingCommService\obj\Debug\MessagePassingCommService.exe
+C:\Users\cheta\source\repos\Project4\MessagePassingCommService\obj\Debug\MessagePassingCommService.pdb

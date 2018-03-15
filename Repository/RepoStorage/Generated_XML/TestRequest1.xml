@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testRequest>
+  <author>Chetali</author>
+  <dateTime>11-30-2017 01:55:31</dateTime>
+  <test>
+    <testDriver>TestLib.cs</testDriver>
+    <tested>TestedLib.cs</tested>
+    <tested>TestedLibDependency.cs</tested>
+    <tested>Interfaces.cs</tested>
+  </test>
+  <test>
+    <testDriver>TestLibFail.cs</testDriver>
+    <tested>TestedLibFail.cs</tested>
+    <tested>TestedLibDependencyFail.cs</tested>
+  </test>
+</testRequest>

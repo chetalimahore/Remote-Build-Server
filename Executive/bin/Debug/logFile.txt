@@ -1,0 +1,23 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Tue Dec  5 16:47:36 2017
+     Path: "C:\Users\cheta\source\repos\Project4\Executive\bin\Debug"
+     Args: *.cs, Executive.exe, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     1 dirs
+   processed     1 files

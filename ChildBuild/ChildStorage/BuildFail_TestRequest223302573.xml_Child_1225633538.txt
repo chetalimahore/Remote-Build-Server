@@ -1,0 +1,3 @@
+TestedLibFail.cs(23,18): error CS0101: The namespace 'DllLoaderDemo' already contains a definition for 'Tested'
+TestedLib.cs(11,16): (Location of symbol related to previous error)
+

@@ -1,0 +1,16 @@
+C:\Users\cheta\source\repos\Project4\TestHarness\bin\Debug\TestHarness.exe.config
+C:\Users\cheta\source\repos\Project4\TestHarness\bin\Debug\TestHarness.exe
+C:\Users\cheta\source\repos\Project4\TestHarness\bin\Debug\TestHarness.pdb
+C:\Users\cheta\source\repos\Project4\TestHarness\bin\Debug\IMessagePassingCommService.dll
+C:\Users\cheta\source\repos\Project4\TestHarness\bin\Debug\MessagePassingCommService.exe
+C:\Users\cheta\source\repos\Project4\TestHarness\bin\Debug\TestUtilities.dll
+C:\Users\cheta\source\repos\Project4\TestHarness\bin\Debug\IMessagePassingCommService.pdb
+C:\Users\cheta\source\repos\Project4\TestHarness\bin\Debug\IMessagePassingCommService.dll.config
+C:\Users\cheta\source\repos\Project4\TestHarness\bin\Debug\MessagePassingCommService.pdb
+C:\Users\cheta\source\repos\Project4\TestHarness\bin\Debug\MessagePassingCommService.exe.config
+C:\Users\cheta\source\repos\Project4\TestHarness\bin\Debug\TestUtilities.pdb
+C:\Users\cheta\source\repos\Project4\TestHarness\bin\Debug\TestUtilities.dll.config
+C:\Users\cheta\source\repos\Project4\TestHarness\obj\Debug\TestHarness.csprojResolveAssemblyReference.cache
+C:\Users\cheta\source\repos\Project4\TestHarness\obj\Debug\TestHarness.csproj.CoreCompileInputs.cache
+C:\Users\cheta\source\repos\Project4\TestHarness\obj\Debug\TestHarness.exe
+C:\Users\cheta\source\repos\Project4\TestHarness\obj\Debug\TestHarness.pdb
