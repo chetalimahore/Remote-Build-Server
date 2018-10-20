@@ -1,7 +1,6 @@
 # Remote-Build-Server
 
-Author: Chetali Ashok Mahore
-Course: CSE 681- Software Modeling and Analysis
+Author: Chetali Ashok Mahore, CSE 681- Software Modeling and Analysis
 
 Steps:
 1. Go to the specific path where Project4.sln is saved.
